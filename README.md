@@ -38,5 +38,12 @@ Notes
 - This repo is a starting point.
 
 License
-- Add a license file when ready.
+Copyright (c) 2025 Statify
+
+Permission is granted to use, copy, modify, and distribute this software
+for non-commercial purposes only, provided that proper credit is given
+to the original author.
+
+Commercial use is strictly prohibited without prior written permission.
+
 
