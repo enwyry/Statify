@@ -1,4 +1,4 @@
-# Spotistats — Spotify stats template 🎧📊
+# Statify — Spotify stats template 🎧📊
 
 A small app for spotify that (for now) can fetch tracks,artists and stats by using Spotify's web API.
 This is my First project as an absolute beginner in python so expect nothing.
