@@ -49,5 +49,5 @@ Commercial use is strictly prohibited without prior written permission.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=enwyry/Statify&type=Date)](https://star-history.com/#enwyry/Statify&Date)
+![Star History](https://github.com/enwyry/Statify/blob/master/star-history-20251231(1).png)
 
