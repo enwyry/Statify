@@ -47,3 +47,9 @@ to the original author.
 Commercial use is strictly prohibited without prior written permission.
 
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=enwyry/spotistats&type=date&legend=top-left)](https://www.star-history.com/#enwyry/spotistats&type=date&legend=top-left)
+
+
