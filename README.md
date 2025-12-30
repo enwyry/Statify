@@ -48,27 +48,21 @@ Commercial use is strictly prohibited without prior written permission.
 
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=enwyry/spotistats&type=date&legend=top-left)](https://www.star-history.com/#enwyry/spotistats&type=date&legend=top-left)
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=enwyry/Statify&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
+      https://api.star-history.com/svg?repos=enwyry/Statify&type=Date
     "
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
+    src="https://api.star-history.com/svg?repos=enwyry/Statify&type=Date"
   />
 </picture>
-
-
